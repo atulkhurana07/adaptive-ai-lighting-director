@@ -1,0 +1,41 @@
+{
+    "profile_name": "Test DJ",
+    "preferences": {
+        "PULSE": 1.0,
+        "FLASH": 7.0,
+        "STROBE": 4.0,
+        "DIM": -1.0,
+        "IDLE": 0.0
+    },
+    "context_preferences": {
+        "BEAT": {
+            "PULSE": -1.0,
+            "FLASH": 3.0,
+            "STROBE": 1.0,
+            "DIM": 0.0,
+            "IDLE": 0.0
+        },
+        "HIGH_ENERGY": {
+            "PULSE": 1.0,
+            "FLASH": 0.0,
+            "STROBE": 3.0,
+            "DIM": 0.0,
+            "IDLE": 0.0
+        },
+        "LOW_ENERGY": {
+            "PULSE": 1.0,
+            "FLASH": 1.0,
+            "STROBE": 0.0,
+            "DIM": -1.0,
+            "IDLE": 0.0
+        },
+        "ONSET": {
+            "PULSE": 0.0,
+            "FLASH": 3.0,
+            "STROBE": 0.0,
+            "DIM": 0.0,
+            "IDLE": 0.0
+        }
+    },
+    "observations": 25
+}

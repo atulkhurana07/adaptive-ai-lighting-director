@@ -1,0 +1,29 @@
+{
+    "dj_name": "Test DJ",
+    "observations": [
+        {
+            "timestamp": "2026-08-17T10:50:31.275070",
+            "song_time": 2.14,
+            "music_event": "BEAT",
+            "ai_action": "PULSE",
+            "dj_action": "FLASH",
+            "feedback": 1.0
+        },
+        {
+            "timestamp": "2026-08-17T10:50:31.275070",
+            "song_time": 5.13,
+            "music_event": "HIGH_ENERGY",
+            "ai_action": "STROBE",
+            "dj_action": "STROBE",
+            "feedback": 1.0
+        },
+        {
+            "timestamp": "2026-08-17T10:50:31.275070",
+            "song_time": 8.42,
+            "music_event": "LOW_ENERGY",
+            "ai_action": "DIM",
+            "dj_action": "PULSE",
+            "feedback": -1.0
+        }
+    ]
+}
